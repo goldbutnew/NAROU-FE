@@ -13,13 +13,9 @@
 6. [주요 기능 설명](#6-주요-기능-설명)
 7. [서비스 화면](#7-서비스-화면)
 
-<br>
-
 ----
 ### 1. 프로젝트 기간
   - 2024.01.06 ~ 2024.02.16
-
-<br>
 
 ### 2. 사용한 기술 스택
   * React
@@ -28,8 +24,6 @@
   * styled-component
   * axios
   * mui material
-
-<br>
 
 ### 3. 팀원 소개
   * 이우주
@@ -46,8 +40,6 @@
     - 지도 API 관련 로직
     - 비교 페이지
     - 게시물 무한 스크롤 구현
-      
-<br>
 
 ### 4. 폴더 구조
 ```
@@ -63,9 +55,6 @@
       └── store
 ```
 
-
-<br>
-
 ### 5. 설계
 
   - Figma
@@ -77,8 +66,6 @@
   <br>
   <img src="src/img/flowchart.png" width="700px"/>
   <br>
-
-<br>
 
 ### 6. 주요 기능 설명
 
@@ -104,42 +91,34 @@
   - 비교
     - 두 게시글을 가져와 맵 상에서 경로 비교
     - 경로의 상세 정보 확인
-  
-  <br>
 
-  ### 7. 서비스 화면
+
+### 7. 서비스 화면
 
   - 메인페이지
-  <br>
-  <img src="src/img/main.gif" width="700px"/>
-  <br>
+    <br>
+    <img src="src/img/main.gif" width="700px" style="border: 1px solid black;"/>
 
   - 무한스크롤
-  <br>
-  <img src="src/img/infinite_scroll.gif" width="700px"/>
-  <br>
+    <br>
+    <img src="src/img/infinite_scroll.gif" width="700px" style="border: 1px solid black;"/>
 
   - 검색
-  <br>
-  <img src="src/img/search.gif" width="700px"/>
-  <br>
+    <br>
+    <img src="src/img/search.gif" width="700px" style="border: 1px solid black;"/>
 
   - 게시글 작성
-  <br>
-  <img src="src/img/create.gif" width="700px"/>
-  <br>
+    <br>
+    <img src="src/img/create.gif" width="700px"style="border: 1px solid black;"/>
 
   - 프로필
-  <br>
-  <img src="src/img/profile.gif" width="700px"/>
-  <br>
+    <br>
+    <img src="src/img/profile.gif" width="700px" style="border: 1px solid black;"/>
 
   - 스크랩
-  <br>
-  <img src="src/img/scrap.gif" width="700px"/>
-  <br>
+    <br>
+    <img src="src/img/scrap.gif" width="700px" style="border: 1px solid black;"/>
 
   - 비교
-  <br>
-  <img src="src/img/compare.gif" width="700px"/>
-  <br>
+    <br>
+    <img src="src/img/compare.gif" width="700px"  style="border: 1px solid black;"/>
