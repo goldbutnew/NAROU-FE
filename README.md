@@ -94,31 +94,47 @@
 
 
 ### 7. 서비스 화면
-
-  - 메인페이지
-    <br>
-    <img src="src/img/main.gif" width="700px" style="border: 1px solid black;"/>
-
-  - 무한스크롤
-    <br>
-    <img src="src/img/infinite_scroll.gif" width="700px" style="border: 1px solid black;"/>
-
-  - 검색
-    <br>
-    <img src="src/img/search.gif" width="700px" style="border: 1px solid black;"/>
-
-  - 게시글 작성
-    <br>
-    <img src="src/img/create.gif" width="700px"style="border: 1px solid black;"/>
-
-  - 프로필
-    <br>
-    <img src="src/img/profile.gif" width="700px" style="border: 1px solid black;"/>
-
-  - 스크랩
-    <br>
-    <img src="src/img/scrap.gif" width="700px" style="border: 1px solid black;"/>
-
-  - 비교
-    <br>
-    <img src="src/img/compare.gif" width="700px"  style="border: 1px solid black;"/>
+  <table>
+    <tr>
+      <td>
+        <p>메인페이지</p>
+        <img src="src/img/main.gif" width="700px" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>무한스크롤</p>
+        <img src="src/img/infinite_scroll.gif" width="700px" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>검색</p>
+        <img src="src/img/search.gif" width="700px" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>게시글 작성</p>
+        <img src="src/img/create.gif" width="700px" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>프로필</p>
+        <img src="src/img/profile.gif" width="700px" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>스크랩</p>
+        <img src="src/img/scrap.gif" width="700px" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>비교</p>
+        <img src="src/img/compare.gif" width="700px" />
+      </td>
+    </tr>
+  </table>
