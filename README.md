@@ -35,11 +35,11 @@
     </td>
     <td width="33%" align="center">
       <img src="src/img/lgh.jpg" width="100%"/>
-      <b><a href="https://github.com/baloo365">이금현</a></b> 
+      <b><a href="https://github.com/goldbutnew">이금현</a></b> 
     </td>
     <td width="33%" align="center">
       <img src="src/img/lwj.png" width="100%"/>
-      <b><a href="https://github.com/baloo365">이우주</a></b> 
+      <b><a href="https://github.com/uuniversey">이우주</a></b> 
     </td>
   </tr>
   <tr>
