@@ -56,12 +56,24 @@
 ```
 
 ## 5. 설계
+* Figma
+  <table>
+    <tr>
+      <td>
+        <img src="src/img/figma.png" width="100%" />
+      </td>
+    </tr>
+  </table>
 
-### Figma
-<img src="src/img/figma.png" width="700px" />
+* FlowChart
+  <table>
+    <tr>
+      <td>
+        <img src="src/img/flowchart.png" width="100%"/>
+      </td>
+    </tr>
+  </table>
 
-### FlowChart
-<img src="src/img/flowchart.png" width="700px"/>
 
 ## 6. 주요 기능 설명
 
@@ -89,7 +101,8 @@
     - 경로의 상세 정보 확인
 
 
-## 7. 서비스 화면* 메인페이지
+## 7. 서비스 화면
+* 메인페이지
   <table>
     <tr>
       <td>
