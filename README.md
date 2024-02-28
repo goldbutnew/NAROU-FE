@@ -14,10 +14,10 @@
 7. [서비스 화면](#7-서비스-화면)
 
 ----
-### 1. 프로젝트 기간
+## 1. 프로젝트 기간
   - 2024.01.06 ~ 2024.02.16
 
-### 2. 사용한 기술 스택
+## 2. 사용한 기술 스택
   * React
   * node.js
   * zustand
@@ -25,7 +25,7 @@
   * axios
   * mui material
 
-### 3. 팀원 소개
+## 3. 팀원 소개
   * 이우주
     - git 관리
     - 회원 관련 기능
@@ -41,7 +41,7 @@
     - 비교 페이지
     - 게시물 무한 스크롤 구현
 
-### 4. 폴더 구조
+## 4. 폴더 구조
 ```
   .
   ├── node_modules
@@ -55,19 +55,15 @@
       └── store
 ```
 
-### 5. 설계
+## 5. 설계
 
-  - Figma
-  <br>
-  <img src="src/img/figma.png" width="700px" />
-  <br>
+### Figma
+<img src="src/img/figma.png" width="700px" />
 
-  - FlowChart
-  <br>
-  <img src="src/img/flowchart.png" width="700px"/>
-  <br>
+### FlowChart
+<img src="src/img/flowchart.png" width="700px"/>
 
-### 6. 주요 기능 설명
+## 6. 주요 기능 설명
 
   - 회원 관리
     - 멤버 회원가입/탈퇴, 중복 아이디 체크, 토큰 활용 인증, 인증코드 확인
@@ -93,77 +89,65 @@
     - 경로의 상세 정보 확인
 
 
-### 7. 서비스 화면
+## 7. 서비스 화면* 메인페이지
   <table>
-    <tr>
-      <td>
-        <p>메인페이지</p>
-      </td>
-    </tr>
     <tr>
       <td>
         <img src="src/img/main.gif" width="100%" />
       </td>
     </tr>
-    <tr>
-      <td>
-        <p>무한스크롤</p>
-      </td>
-    </tr>
+  </table>
+
+* 무한스크롤
+  <table>
     <tr>
       <td>
         <img src="src/img/infinite_scroll.gif" width="100%" />
       </td>
     </tr>
-    <tr>
-      <td>
-        <p>검색</p>
-      </td>
-    </tr>
+  </table>
+
+* 검색
+  <table>
     <tr>
       <td>
         <img src="src/img/search.gif" width="100%" />
       </td>
     </tr>
-    <tr>
-      <td>
-        <p>게시글 작성</p>
-      </td>
-    </tr>
+  </table>
+
+* 게시글 작성
+  <table>
     <tr>
       <td>
         <img src="src/img/create.gif" width="100%" />
       </td>
     </tr>
-    <tr>
-      <td>
-        <p>프로필</p>
-      </td>
-    </tr>
+  </table>
+
+* 프로필
+  <table>
     <tr>
       <td>
         <img src="src/img/profile.gif" width="100%" />
       </td>
     </tr>
-    <tr>
-      <td>
-        <p>스크랩</p>
-      </td>
-    </tr>
+  </table>
+
+* 스크랩
+  <table>
     <tr>
       <td>
         <img src="src/img/scrap.gif" width="100%" />
       </td>
     </tr>
-    <tr>
-      <td>
-        <p>비교</p>
-      </td>
-    </tr>
+  </table>
+
+* 비교
+  <table>
     <tr>
       <td>
         <img src="src/img/compare.gif" width="100%" />
       </td>
     </tr>
   </table>
-
