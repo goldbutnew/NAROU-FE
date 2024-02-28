@@ -30,7 +30,7 @@
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <img src="src/img/nyk.jpg" width="100%"/>
+      <img src="src/img/nyk_2.jpg" width="100%"/>
       <b><a href="https://github.com/baloo365">나유경</a></b> 
     </td>
     <td width="33%" align="center">
