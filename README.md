@@ -97,58 +97,73 @@
   <table>
     <tr>
       <td>
-        <img src="src/img/main.gif" width="100%" />
-      </td>
-      <td>
         <p>메인페이지</p>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="src/img/infinite_scroll.gif" width="100%" />
+        <img src="src/img/main.gif" width="100%" />
       </td>
+    </tr>
+    <tr>
       <td>
         <p>무한스크롤</p>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="src/img/search.gif" width="100%" />
+        <img src="src/img/infinite_scroll.gif" width="100%" />
       </td>
+    </tr>
+    <tr>
       <td>
         <p>검색</p>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="src/img/create.gif" width="100%" />
+        <img src="src/img/search.gif" width="100%" />
       </td>
+    </tr>
+    <tr>
       <td>
         <p>게시글 작성</p>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="src/img/profile.gif" width="100%" />
+        <img src="src/img/create.gif" width="100%" />
       </td>
+    </tr>
+    <tr>
       <td>
         <p>프로필</p>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="src/img/scrap.gif" width="100%" />
+        <img src="src/img/profile.gif" width="100%" />
       </td>
+    </tr>
+    <tr>
       <td>
         <p>스크랩</p>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="src/img/compare.gif" width="100%" />
+        <img src="src/img/scrap.gif" width="100%" />
       </td>
+    </tr>
+    <tr>
       <td>
         <p>비교</p>
       </td>
     </tr>
+    <tr>
+      <td>
+        <img src="src/img/compare.gif" width="100%" />
+      </td>
+    </tr>
   </table>
+
