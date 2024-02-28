@@ -29,9 +29,18 @@
 ### 3. 팀원 소개
 <table width="100%">
   <tr>
-    <td width="33%" align="center">나유경</td>
-    <td width="33%" align="center">이금현</td>
-    <td width="33%" align="center">이우주</td>
+    <td width="33%" align="center">
+      <img src="src/img/nyk.jpg" width="100%"/>
+      <b><a href="https://github.com/baloo365">나유경</a></b> 
+    </td>
+    <td width="33%" align="center">
+      <img src="src/img/lgh.jpg" width="100%"/>
+      <b><a href="https://github.com/baloo365">이금현</a></b> 
+    </td>
+    <td width="33%" align="center">
+      <img src="src/img/lwj.png" width="100%"/>
+      <b><a href="https://github.com/baloo365">이우주</a></b> 
+    </td>
   </tr>
   <tr>
     <td width="33%" align="center">
