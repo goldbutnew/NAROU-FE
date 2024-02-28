@@ -1,5 +1,5 @@
 
-# NAROU
+# NAROU 🧳
 다른 사람들의 여행 경로를 한눈에 비교하고 싶나요? 🙋‍♀️
 <br> 
 나만의 여행을 위한 효율적인 루트를 계획하고 실시간으로 공유 해 보세요! ✈
@@ -97,44 +97,58 @@
   <table>
     <tr>
       <td>
+        <img src="src/img/main.gif" width="100%" />
+      </td>
+      <td>
         <p>메인페이지</p>
-        <img src="src/img/main.gif" width="700px" />
       </td>
     </tr>
     <tr>
+      <td>
+        <img src="src/img/infinite_scroll.gif" width="100%" />
+      </td>
       <td>
         <p>무한스크롤</p>
-        <img src="src/img/infinite_scroll.gif" width="700px" />
       </td>
     </tr>
     <tr>
+      <td>
+        <img src="src/img/search.gif" width="100%" />
+      </td>
       <td>
         <p>검색</p>
-        <img src="src/img/search.gif" width="700px" />
       </td>
     </tr>
     <tr>
+      <td>
+        <img src="src/img/create.gif" width="100%" />
+      </td>
       <td>
         <p>게시글 작성</p>
-        <img src="src/img/create.gif" width="700px" />
       </td>
     </tr>
     <tr>
+      <td>
+        <img src="src/img/profile.gif" width="100%" />
+      </td>
       <td>
         <p>프로필</p>
-        <img src="src/img/profile.gif" width="700px" />
       </td>
     </tr>
     <tr>
+      <td>
+        <img src="src/img/scrap.gif" width="100%" />
+      </td>
       <td>
         <p>스크랩</p>
-        <img src="src/img/scrap.gif" width="700px" />
       </td>
     </tr>
     <tr>
       <td>
+        <img src="src/img/compare.gif" width="100%" />
+      </td>
+      <td>
         <p>비교</p>
-        <img src="src/img/compare.gif" width="700px" />
       </td>
     </tr>
   </table>
